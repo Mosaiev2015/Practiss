@@ -1,0 +1,15 @@
+H:\Practiss\PR1\PR1\PR1\obj\Debug\net7.0\PR1.csproj.AssemblyReference.cache
+H:\Practiss\PR1\PR1\PR1\obj\Debug\net7.0\PR1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Practiss\PR1\PR1\PR1\obj\Debug\net7.0\PR1.AssemblyInfoInputs.cache
+H:\Practiss\PR1\PR1\PR1\obj\Debug\net7.0\PR1.AssemblyInfo.cs
+H:\Practiss\PR1\PR1\PR1\obj\Debug\net7.0\PR1.csproj.CoreCompileInputs.cache
+H:\Practiss\PR1\PR1\PR1\bin\Debug\net7.0\PR1.exe
+H:\Practiss\PR1\PR1\PR1\bin\Debug\net7.0\PR1.deps.json
+H:\Practiss\PR1\PR1\PR1\bin\Debug\net7.0\PR1.runtimeconfig.json
+H:\Practiss\PR1\PR1\PR1\bin\Debug\net7.0\PR1.dll
+H:\Practiss\PR1\PR1\PR1\bin\Debug\net7.0\PR1.pdb
+H:\Practiss\PR1\PR1\PR1\obj\Debug\net7.0\PR1.dll
+H:\Practiss\PR1\PR1\PR1\obj\Debug\net7.0\refint\PR1.dll
+H:\Practiss\PR1\PR1\PR1\obj\Debug\net7.0\PR1.pdb
+H:\Practiss\PR1\PR1\PR1\obj\Debug\net7.0\PR1.genruntimeconfig.cache
+H:\Practiss\PR1\PR1\PR1\obj\Debug\net7.0\ref\PR1.dll
